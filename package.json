@@ -1,0 +1,24 @@
+{
+  "name": "extension-pack-angular",
+  "displayName": "Extension Pack Angular",
+  "description": "Minimum popular extensions for angular  developer",
+  "publisher": "YousifShafee",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "scripts": {
+    "vscode:uninstall": "node ./out/src/lifecycle"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "Angular.ng-template", 
+    "formulahendry.auto-close-tag", 
+    "formulahendry.auto-rename-tag", 
+    "infinity1207.angular2-switcher", 
+    "johnpapa.Angular2", 
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
