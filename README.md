@@ -1,5 +1,9 @@
 # Extension Pack Angular
 
+
+<p align='center'>
+<img src="https://img.shields.io/badge/Angular-239120?logo=angular&logoColor=white&color=red" />
+
 This is a vscode extension is a small pack packages some of the most popular Angular extensions.
 
 ### Extensions Included
