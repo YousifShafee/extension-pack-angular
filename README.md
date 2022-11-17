@@ -1,6 +1,6 @@
 # Extension Pack Angular
 
-This extension is small pack packages some of the most popular Angular extensions.
+This is a vscode extension is a small pack packages some of the most popular Angular extensions.
 
 ### Extensions Included
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
